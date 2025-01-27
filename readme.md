@@ -1,6 +1,4 @@
-Here's an optimized version of your README introduction with improved clarity, structure, and professional tone:
 
----
 
 # RecLiRA: Recommendation-specific Likelihood Ratio Attack
 
