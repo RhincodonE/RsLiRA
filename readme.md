@@ -26,9 +26,9 @@ Here's an optimized version of your README introduction with improved clarity, s
 ### Pipeline Architecture
 ```mermaid
 graph TD
-    A[Shadow Models] --> B[Model Observations]
+    A[Training Models] --> B[Out Observations]
     B --> C[Gaussian Distribution Fitting]
-    C --> D[Threshold Optimization]
+    C --> D[Threshold Optimization for Each Interaction over 500 Models]
     D --> E[Privacy Scores]
 ```
 
