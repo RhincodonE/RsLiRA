@@ -6,7 +6,8 @@ Here's an optimized version of your README introduction with improved clarity, s
 
 **A Privacy Attack Framework for Recommendation Systems**
 
-** Before staring
+**Before Starting**
+
 Please download Amazon-beauty and Music dataset from official websites to `./RecLiRA/contents/` as the screenshot in the `./RecLiRA/contents/`.
 
 ## 🚀 Quick Start: Two choices
