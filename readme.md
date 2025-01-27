@@ -1,8 +1,7 @@
 
 
-# RecLiRA: Recommendation-specific Likelihood Ratio Attack
+# RecPS: A Privacy scoring Framework for Recommendation Systems
 
-**A Privacy Attack Framework for Recommendation Systems**
 
 **Before Starting**
 
@@ -10,12 +9,12 @@ Please download Amazon-beauty and Music dataset from official websites to `./Rec
 
 ## 🚀 Quick Start: Two choices
 
-**1. Run Attack Evaluation on a single model**  
+**1. RecLiRA: Run RecliRA Attack Evaluation on a single model**  
 ```bash
 ./RecLiRA/run_attack.sh
 ```
 
-**2. Generate Privacy Scores**  
+**2. RecPS: Use RecLiRA to generate Privacy Scores**  
 ```bash
 ./RecLiRA/run_score.py
 ```
@@ -23,7 +22,7 @@ Please download Amazon-beauty and Music dataset from official websites to `./Rec
 
 ---
 
-## 🔍 Workflow Overview
+## 🔍 RecPS Workflow Overview
 
 ### Pipeline Architecture
 ```mermaid
