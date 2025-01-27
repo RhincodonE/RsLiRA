@@ -38,7 +38,7 @@ graph TD
    - Target models: `./RecLiRA/target-models/`
 
 2. **Observation Storage**  
-   - Item-level data: `item-data/shadow/`, `item-data/target/`
+   - Item-level data: `./RecLiRA/item-data/shadow/`, `./RecLiRA/item-data/target/`
 
 3. **Statistical Analysis**  
    - Gaussian distribution generation: `./RecLiRA/distribution/`
